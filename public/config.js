@@ -20,7 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_CAMPAIGNS": "false",
-  "VITE_TELEGRAM_URL": "",
+  "VITE_TELEGRAM_URL": "https://t.me/+Mle1wvCS4Yk5MTI1",
   "VITE_DISCORD_URL": "",
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "",
