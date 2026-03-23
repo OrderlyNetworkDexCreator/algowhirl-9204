@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Swap,Portfolio,Markets,Rewards,Vaults",
-  "VITE_CUSTOM_MENUS": "Earn, https://algowhirl.com/earn/",
+  "VITE_CUSTOM_MENUS": "Earn, https://algowhirl.com/earn/; Referral, https://algowhirl.com/referral/",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/+Mle1wvCS4Yk5MTI1",
