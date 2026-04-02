@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "AlgoWhirl: The ultimate decentralized DEX for AI-driven perpetual futures trading. Unlock 100x leverage, deep liquidity, and algorithmic predictions on Ethereum & L2 chains. Trade boldly in Web3—secure, fast, and unstoppable.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Swap,Portfolio,Markets,Vaults",
+  "VITE_ENABLED_MENUS": "Trading,Swap,Portfolio,Markets,Vaults,Campaigns",
   "VITE_CUSTOM_MENUS": "Earn, https://algowhirl.com/earn/; Referral, https://algowhirl.com/referral/",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
